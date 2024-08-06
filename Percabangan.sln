@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuaraHewan", "SuaraHewan\SuaraHewan.csproj", "{EE630E46-477B-45D9-B93D-648661039F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamaLengkap", "NamaLengkap\NamaLengkap.csproj", "{76B379DA-DC22-4A90-BD34-13DE615DA527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TebakAngka", "TebakAngka\TebakAngka.csproj", "{B3532431-4EFF-4181-AE72-4AF01224CA8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "perbandingan", "perbandingan\perbandingan.csproj", "{4AE2F75F-0310-4E5B-BB8F-D278D1258CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumber", "RandomNumber\RandomNumber.csproj", "{95A05F32-3279-4E9E-8B12-42A78419B9BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pemilu", "Pemilu\Pemilu.csproj", "{59ECA284-E35E-481A-93EB-CEA4E8197203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollerCoaster", "RollerCoaster\RollerCoaster.csproj", "{1525DCB1-8BE8-402A-9D09-85E9BF5949B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE630E46-477B-45D9-B93D-648661039F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE630E46-477B-45D9-B93D-648661039F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE630E46-477B-45D9-B93D-648661039F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE630E46-477B-45D9-B93D-648661039F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B379DA-DC22-4A90-BD34-13DE615DA527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B379DA-DC22-4A90-BD34-13DE615DA527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B379DA-DC22-4A90-BD34-13DE615DA527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B379DA-DC22-4A90-BD34-13DE615DA527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3532431-4EFF-4181-AE72-4AF01224CA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3532431-4EFF-4181-AE72-4AF01224CA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3532431-4EFF-4181-AE72-4AF01224CA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3532431-4EFF-4181-AE72-4AF01224CA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE2F75F-0310-4E5B-BB8F-D278D1258CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE2F75F-0310-4E5B-BB8F-D278D1258CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE2F75F-0310-4E5B-BB8F-D278D1258CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE2F75F-0310-4E5B-BB8F-D278D1258CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A05F32-3279-4E9E-8B12-42A78419B9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A05F32-3279-4E9E-8B12-42A78419B9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A05F32-3279-4E9E-8B12-42A78419B9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A05F32-3279-4E9E-8B12-42A78419B9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59ECA284-E35E-481A-93EB-CEA4E8197203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ECA284-E35E-481A-93EB-CEA4E8197203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ECA284-E35E-481A-93EB-CEA4E8197203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ECA284-E35E-481A-93EB-CEA4E8197203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1525DCB1-8BE8-402A-9D09-85E9BF5949B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1525DCB1-8BE8-402A-9D09-85E9BF5949B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1525DCB1-8BE8-402A-9D09-85E9BF5949B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1525DCB1-8BE8-402A-9D09-85E9BF5949B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A5B89D-CC8A-4422-9AEE-CA440FD3C6D3}
+	EndGlobalSection
+EndGlobal
